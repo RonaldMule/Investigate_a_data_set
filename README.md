@@ -1,6 +1,5 @@
-# Investigate_a_data_set
+
 # RONALD MULYOWA   
-# (12/5/2020) 
 
 # Project: Investigate  A No-show appointments dataset
 

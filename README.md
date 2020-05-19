@@ -20,18 +20,23 @@
 > The original problem is from [Kaggle] (https://www.kaggle.com/joniarroba/noshowappointments/home)
 
 ## Findings 
-> Most patients live in Jardin Camburi
-> Most patients schedule appointments on Tuesday and wednesday. <br />
-> No patients schedule appointments on the weekends ie(satuday and sunday). <br />
-> Most patients are given appointments on Wednesday and Tuesday. <br />
-> 80% of the patients attended their appointment. <br />
-> 20% patients missed their appointments. <br />
-> Of the total number missed 65% were female while 35% were male. <br />
-> 79.6% of the female patients attended their appointment schedules with just 20.4% missing their schedule. <br />
-> 80% of the Male patients attended their appointments compaired to the 20% who missed. <br />
-  There is 0.4% chance that the female patient is likely to miss compaired to male patients. <br />
+> 79.8% of the patients attended their appointment. <br />
+> 20.2% patients missed their appointments. <br />
+> The data is only in three quarters. <br />
+> The data is distributed in three quarters. <br />
+> There are no patients who missed their appointments within the first quarter.<br />
+> Over 20,000 patients missed their appointments in the last quarter.  <br />
+> The number of missed appointments increased in the month of december 2015. <br />
+> The number of missed appointments increased sharply between feb 2016 and march 2016. <br />
+> March 2016 has the highest number of missed appointments. <br />
+> There is a sharp decline in the number of patients who missed between  April 2016, and june 2016. <br />
+> Over time the percentage of male patients missing appointments has been exceeding that of the Female patients. <br />
+> The percentange of female patients who missed is greater than that of their male counter parts.
 > Patients with alcoholism miss their appointments most followed by handcaped patients. <br />
 > Hypertension has the least missed appointments. <br />  
+###  Limitations
+> There is no data for people who missed appointments in the first quarter. <br />
+> Most of the data is concetrated in only two quarters which makes it insufficient to know the exact factors which could influence patient attendence. <br />
 
 ## Tools Used 
 1. Python, libraries: numpy, pandas, matplotlib, seaborn, warnings

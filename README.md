@@ -4,6 +4,7 @@
 # Project: Investigate  A No-show appointments dataset
 
 ## Table of Contents
+
 <ul>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#wrangling">Data Wrangling</a></li>
